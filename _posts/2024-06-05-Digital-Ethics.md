@@ -1,0 +1,4 @@
+ During our Digital Ethics discussion, my class learned about how to make a website accessible for people with disabilities and databases that support their access of educational materials.
+
+
+ The creation of digital tools and perspectives for the humanities is very helpful to those with disabilities, particularly print disabilities. However, most website designers do not keep disabled abilities and perspectives in mind. A lack of video captioning, low color contrast, and text to speech features are a few examples of poor design that contribute to website inaccessibility. Databses and consortiums like EMMA (Educational Material Made Accessible) and W3C (World Wide Web Consortium) allow people with disabilities to access educational materials that better fit their needs. Additionally, these collections help librarians and those who work in disability services as they do not have to create their own version of accessible educational materials for their institution. 
