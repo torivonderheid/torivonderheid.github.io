@@ -4,6 +4,5 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+
+This blog commemorates Tori's experience at the Digital Humanities Summer Institute in Victoria, Canada in June 2024. This experience was made possible by a fellowship offered through the Center for the Humanities at Loyola University Maryland. 
