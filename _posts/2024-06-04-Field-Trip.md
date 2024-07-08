@@ -1,0 +1,6 @@
+My class visited the Chinese Canadian Museum during the last full afternoon session. The small exhibit was located in Fan Tan Alley in downtown Victoria, which encompasses the second-oldest Chinatown in North America. Put together by a former city councilwoman who collected donations in her basement for years, the exhibits demonstrate the origin of Chinese immigration to North America during the Gold Rush and the Canadian Government's racist treatment of those immigrants. Such collections include photos, mahjong sets, and videos detailing Chinese culture in Victoria. 
+
+
+![](/assets/image/IMG_8845.jpeg)
+
+We visited this museum to integrate our study of the Digital Humanities with a real-world example of racism and subsequent social jusice efforts. Also, many students in my class mentioned mapping projects that they were working on or were familiar with that detailed similar experiences. The professors mentioned digital archiving as a method to add to the work that the Chinese Canadian Museum is doing. Such digital projects could draw more people and perspectives to the project, as they could share their families' experiences from all over the world. 
