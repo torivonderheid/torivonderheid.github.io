@@ -1,0 +1,7 @@
+I believe that the Digital Humanities Summer Institute was very eye-opening. The in and out of class lectures introduced me to a number of programs and projects that I can utilize to create my own research project in the future. For example, I plan to create a StoryMaps of sites of erosion that I have witnessed at the New England island where my family and I spend a few weeks annually. I want to demonstrate the effects of climate change on the area, half of which is a wildlife refuge, and research how the erosion will affect the island and the animals that depend on it. Throughout my time in college, I will study climate change and utilize my minor in Data Science to create StoryMaps, programs, and initiatives to track its progression. 
+
+
+Additionally, thanks to my course, I now know how to create research projects that are accessible and promote social justice. Class discussions in the topics of Digital Ethics and Games brought many potential issues in the Digital Humanities and its projects to my attention. During the creation of a future project, I may access databases like EMMA to promote accessibility and different perspectives. 
+
+
+I am very thankful to Loyola University Maryland for providing me with this opportunity to expand my knowledge and open my eyes to the way race and social justice are portrayed in the Digital Humanities. I will continue to use what I have learned during this week for the rest of my career.
